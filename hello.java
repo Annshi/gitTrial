@@ -3,6 +3,5 @@ class hello{
         System.out.println("Hello World!");
         System.out.println("Hey commit!");
         System.out.println("Hey from git!");
-         System.out.println("Hey from git 2!");
     }
 }
