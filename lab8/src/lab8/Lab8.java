@@ -15,7 +15,8 @@ public class Lab8 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        int num = 12341;
+        System.out.printf( "\nMax digit of %d is %d ", num,  MaxDigit.defineMax(num));
     }
     
 }
