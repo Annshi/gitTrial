@@ -17,9 +17,7 @@ public class Lab8 {
     public static void main(String[] args) {
         int num = 12341;
         System.out.printf( "\nMax digit of %d is %d ", num,  MaxDigit.defineMax(num));
-        System.out.printf( "\nIs perfect? %b", PerfectNumber.isPerfect(num));
-                System.out.printf( "\nhey");
-
+        System.out.printf( "\nIs perfect? %b", PerfectNumber.isPerfect(num));                            
     }
     
 }
