@@ -19,6 +19,7 @@ public class Lab8 {
         System.out.printf( "\nMax digit of %d is %d ", num,  MaxDigit.defineMax(num));
         System.out.printf( "\nIs perfect? %b", PerfectNumber.isPerfect(num)); 
         System.out.printf( "\nIs perfect? %b"); 
+        System.out.printf( "дадд");
         
     }
     
